@@ -41,6 +41,6 @@ then, execute:
     Rscript ./CalActivity/Cal_EnzymeActivity.R networkfile genelistfile
 
 #### Output file:
-- re_network.txt the filtered networks used for calculate the enzyme activity
-- protein_activity.csv the sample enzyme activity file.
+- ***re_network.txt***  the filtered networks used for calculate the enzyme activity
+- ***protein_activity.csv*** the sample enzyme activity file.
 
