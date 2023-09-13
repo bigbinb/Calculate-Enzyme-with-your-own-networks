@@ -1,4 +1,4 @@
-# A pipeline for calculating enzyme activity using your own network。
+# A pipeline for calculating enzyme activity using your own network
 
 This pipeline is for constructed your own comprehensive network, and calculated the enzyme activity. 
 
